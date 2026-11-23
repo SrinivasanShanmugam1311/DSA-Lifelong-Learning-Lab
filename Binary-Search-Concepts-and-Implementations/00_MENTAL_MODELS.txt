@@ -1,0 +1,1 @@
+Keep the interval that can still contain the answer. Use mid = low + (high-low)/2. For answer search, define a monotone feasibility test first.

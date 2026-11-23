@@ -1,0 +1,2 @@
+Keep the interval that can still contain the answer. Use mid = low + (high-low)/2. For answer search, define a monotone feasibility test first.
+Names: left, right, low, high, mid, current, previous, next_node, count, path. Use only names relevant to the pattern.

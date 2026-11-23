@@ -1,0 +1,33 @@
+# Expanded inventory
+
+- 11: Search in Rotated Sorted Array — Pending
+- 12: Find Minimum in Rotated Sorted Array — Available; not fully audited
+- 13: Search a 2D Matrix — Pending
+- 14: Koko Eating Bananas — Pending
+- 15: Time Based Key-Value Store — Pending
+- 16: Magnetic Force Between Two Balls — Pending
+- 17: Split Array Largest Sum — Pending
+- 18: Median of Two Sorted Arrays — Pending
+- 58: Search Insert Position — Available; not fully audited
+- 59: Find First and Last Position — Pending
+- 60: Cutting Wood — Pending
+- 62: Binary Search — Available; not fully audited
+- 63: Computing Square Roots — Available; not fully audited
+- 64: Upper Bound — Available; not fully audited
+- 65: Fixed Point — Available; not fully audited
+- 66: Search Unknown Length Array — Pending
+- 92: Search in Rotated Sorted Array II — Pending
+- 93: Find Peak Element — Pending
+- 94: Find Minimum in Rotated Sorted Array II — Pending
+- 95: Search a 2D Matrix II — Pending
+- 96: Kth Smallest Element in a Sorted Matrix — Pending
+- 97: Capacity to Ship Packages Within D Days — Pending
+- 98: Minimum Days to Make M Bouquets — Pending
+- 99: Snapshot Array — Pending
+- 100: Maximum Candies Allocated to K Children — Pending
+- 101: Smallest Divisor Given a Threshold — Pending
+- 102: Minimized Maximum of Products Distributed to Any Store — Pending
+- 103: Minimum Time to Complete Trips — Pending
+- 104: Kth Smallest Pair Distance — Pending
+- 181: Guess Number Higher or Lower — Pending
+- 182: Find in Mountain Array — Pending

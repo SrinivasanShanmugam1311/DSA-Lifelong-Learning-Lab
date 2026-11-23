@@ -1,0 +1,103 @@
+Alex ID,Canonical ID,Similar problem
+1,75,Remove Element
+1,76,Remove Duplicates II
+2,77,3Sum Closest
+2,78,4Sum
+3,52,Two Sum II
+3,53,Valid Palindrome
+4,79,Product of Array Except Self
+4,80,Trapping Rain Water II
+5,81,Minimum Size Subarray Sum
+5,82,Longest Substring With At Least K Repeating Characters
+6,83,Max Consecutive Ones III
+6,84,Longest Subarray of 1s After Deleting One Element
+7,85,Maximum Points From Cards
+7,86,Get Equal Substrings Within Budget
+8,57,Find All Anagrams in a String
+8,87,Substring With Concatenation of All Words
+9,88,Smallest Range Covering Elements From K Lists
+9,89,Subarrays With K Different Integers
+10,90,Sliding Window Median
+10,91,Shortest Subarray With Sum At Least K
+11,92,Search in Rotated Sorted Array II
+11,93,Find Peak Element
+12,94,Find Minimum in Rotated Sorted Array II
+12,62,Binary Search
+13,95,Search a 2D Matrix II
+13,96,Kth Smallest Element in a Sorted Matrix
+14,97,Capacity to Ship Packages Within D Days
+14,98,Minimum Days to Make M Bouquets
+15,99,Snapshot Array
+15,59,Find First and Last Position
+16,100,Maximum Candies Allocated to K Children
+16,101,Smallest Divisor Given a Threshold
+17,102,Minimized Maximum of Products Distributed to Any Store
+17,103,Minimum Time to Complete Trips
+18,104,Kth Smallest Pair Distance
+18,63,Computing Square Roots
+19,105,Contains Duplicate
+19,106,Two Sum IV Input Is a BST
+20,68,Group Anagrams
+20,69,Ransom Note
+21,107,Missing Number
+21,108,First Missing Positive
+22,109,Continuous Subarray Sum
+22,110,Contiguous Array
+23,111,Generate Parentheses
+23,112,Longest Valid Parentheses
+24,113,Next Greater Element II
+24,114,Online Stock Span
+25,115,Design Circular Queue
+25,116,Number of Recent Calls
+26,117,Design a Stack With Increment Operation
+26,118,Implement Stack Using Queues
+27,119,Basic Calculator II
+27,61,Basic Calculator
+28,120,Remove K Digits
+28,121,132 Pattern
+29,122,Car Fleet II
+29,123,Asteroid Collision
+30,124,Maximal Rectangle
+30,125,Sum of Subarray Minimums
+31,126,Reverse Linked List II
+31,127,Swap Nodes in Pairs
+32,128,Linked List Cycle II
+32,56,Happy Number
+33,129,Delete Middle Node
+33,130,Maximum Twin Sum
+34,131,Merge Sorted Array
+34,132,Sort List
+35,133,Palindrome Number
+35,134,Odd Even Linked List
+36,135,Remove Linked List Elements
+36,136,Remove Duplicates From Sorted List
+37,137,Remove Duplicates From Sorted List II
+37,138,Rotate List
+38,139,Partition List
+38,132,Sort List
+39,140,Clone Graph
+39,141,Flatten Multilevel Doubly Linked List
+40,142,Add Two Numbers II
+40,143,Multiply Strings
+41,128,Linked List Cycle II
+41,144,Find All Duplicates in an Array
+42,145,LFU Cache
+42,146,Design Linked List
+43,147,Kth Largest Element in an Array
+43,148,Find K Pairs With Smallest Sums
+44,149,Reverse Nodes in Even Length Groups
+44,126,Reverse Linked List II
+45,150,Letter Combinations of a Phone Number
+45,151,Coin Change
+46,150,Letter Combinations of a Phone Number
+46,111,Generate Parentheses
+47,152,Next Permutation
+47,153,Permutation Sequence
+48,154,Letter Tile Possibilities
+48,152,Next Permutation
+49,155,Subsets II
+49,156,Letter Case Permutation
+50,157,Combination Sum IV
+50,158,Target Sum
+51,159,Palindrome Partitioning
+51,160,N Queens

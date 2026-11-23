@@ -1,0 +1,30 @@
+# Expanded inventory
+
+- 23: Valid Parentheses — Available; not fully audited
+- 24: Next Greater Element I — Pending
+- 25: Implement Queue Using Stacks — Pending
+- 26: Min Stack — Pending
+- 27: Evaluate Reverse Polish Notation — Pending
+- 28: Daily Temperatures — Pending
+- 29: Car Fleet — Pending
+- 30: Largest Rectangle in Histogram — Pending
+- 61: Basic Calculator — Pending
+- 111: Generate Parentheses — Pending
+- 112: Longest Valid Parentheses — Pending
+- 113: Next Greater Element II — Pending
+- 114: Online Stock Span — Pending
+- 115: Design Circular Queue — Pending
+- 116: Number of Recent Calls — Pending
+- 117: Design a Stack With Increment Operation — Pending
+- 118: Implement Stack Using Queues — Pending
+- 119: Basic Calculator II — Pending
+- 120: Remove K Digits — Pending
+- 121: 132 Pattern — Pending
+- 122: Car Fleet II — Pending
+- 123: Asteroid Collision — Pending
+- 124: Maximal Rectangle — Pending
+- 125: Sum of Subarray Minimums — Pending
+- 177: Baseball Game — Pending
+- 178: Simplify Path — Pending
+- 179: Decode String — Pending
+- 180: Maximum Frequency Stack — Pending

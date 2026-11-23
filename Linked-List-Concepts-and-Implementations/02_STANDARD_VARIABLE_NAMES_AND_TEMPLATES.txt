@@ -1,0 +1,2 @@
+Save next before changing links. Use a dummy node to simplify head changes. Slow and fast pointers travel at different speeds.
+Names: left, right, low, high, mid, current, previous, next_node, count, path. Use only names relevant to the pattern.

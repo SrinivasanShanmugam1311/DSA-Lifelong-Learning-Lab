@@ -1,0 +1,1 @@
+Save next before changing links. Use a dummy node to simplify head changes. Slow and fast pointers travel at different speeds.

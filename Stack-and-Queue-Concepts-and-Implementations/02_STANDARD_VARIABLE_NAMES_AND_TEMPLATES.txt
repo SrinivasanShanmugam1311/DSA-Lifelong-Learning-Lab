@@ -1,0 +1,2 @@
+Stack removes the newest item; queue removes the oldest. A monotonic stack removes candidates that can no longer help.
+Names: left, right, low, high, mid, current, previous, next_node, count, path. Use only names relevant to the pattern.

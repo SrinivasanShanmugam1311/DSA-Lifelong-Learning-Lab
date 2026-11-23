@@ -1,0 +1,1 @@
+Define the base case. Choose a value, explore the smaller problem, and undo the choice. Copy output paths when saving them.

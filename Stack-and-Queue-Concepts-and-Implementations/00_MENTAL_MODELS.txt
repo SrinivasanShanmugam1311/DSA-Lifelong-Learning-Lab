@@ -1,0 +1,1 @@
+Stack removes the newest item; queue removes the oldest. A monotonic stack removes candidates that can no longer help.

@@ -1,0 +1,41 @@
+# Expanded inventory
+
+- 31: Reverse Linked List — Available; not fully audited
+- 32: Linked List Cycle — Available; not fully audited
+- 33: Middle of the Linked List — Available; not fully audited
+- 34: Merge Two Sorted Lists — Pending
+- 35: Palindrome Linked List — Pending
+- 36: Intersection of Two Linked Lists — Pending
+- 37: Remove Nth Node From End of List — Pending
+- 38: Reorder List — Pending
+- 39: Copy List With Random Pointer — Pending
+- 40: Add Two Numbers — Pending
+- 41: Find the Duplicate Number — Pending
+- 42: LRU Cache — Pending
+- 43: Merge K Sorted Lists — Pending
+- 44: Reverse Nodes in K Group — Pending
+- 56: Happy Number — Pending
+- 126: Reverse Linked List II — Pending
+- 127: Swap Nodes in Pairs — Pending
+- 128: Linked List Cycle II — Pending
+- 129: Delete Middle Node — Pending
+- 130: Maximum Twin Sum — Pending
+- 131: Merge Sorted Array — Available; syntax checked, runtime not audited
+- 132: Sort List — Pending
+- 133: Palindrome Number — Pending
+- 134: Odd Even Linked List — Pending
+- 135: Remove Linked List Elements — Pending
+- 136: Remove Duplicates From Sorted List — Pending
+- 137: Remove Duplicates From Sorted List II — Pending
+- 138: Rotate List — Pending
+- 139: Partition List — Pending
+- 140: Clone Graph — Pending
+- 141: Flatten Multilevel Doubly Linked List — Pending
+- 142: Add Two Numbers II — Pending
+- 143: Multiply Strings — Pending
+- 144: Find All Duplicates in an Array — Pending
+- 145: LFU Cache — Pending
+- 146: Design Linked List — Pending
+- 147: Kth Largest Element in an Array — Pending
+- 148: Find K Pairs With Smallest Sums — Pending
+- 149: Reverse Nodes in Even Length Groups — Pending

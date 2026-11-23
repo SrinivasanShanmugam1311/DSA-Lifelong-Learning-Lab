@@ -1,0 +1,32 @@
+# Expanded inventory
+
+- 19: Two Sum — Pending
+- 20: Valid Anagram — Available; not fully audited
+- 21: Longest Consecutive Sequence — Pending
+- 22: Subarray Sum Equals K — Pending
+- 54: Valid Sudoku — Pending
+- 55: Set Matrix Zeroes — Pending
+- 68: Group Anagrams — Pending
+- 69: Ransom Note — Pending
+- 70: Pairing Users by Attributes — Pending
+- 71: Missing Element Arbitrary Range — Pending
+- 72: Missing Element Limited Memory — Pending
+- 73: Majority Element — Available; not fully audited
+- 74: Frequent Items in a Stream — Pending
+- 105: Contains Duplicate — Pending
+- 106: Two Sum IV Input Is a BST — Pending
+- 107: Missing Number — Pending
+- 108: First Missing Positive — Pending
+- 109: Continuous Subarray Sum — Pending
+- 110: Contiguous Array — Pending
+- 166: Concatenation of Array — Pending
+- 167: Longest Common Prefix — Pending
+- 168: Design HashSet — Pending
+- 169: Design HashMap — Pending
+- 170: Sort an Array — Pending
+- 171: Sort Colors — Pending
+- 172: Top K Frequent Elements — Pending
+- 173: Encode and Decode Strings — Pending
+- 174: Range Sum Query 2D Immutable — Pending
+- 175: Best Time to Buy and Sell Stock II — Pending
+- 176: Majority Element II — Pending

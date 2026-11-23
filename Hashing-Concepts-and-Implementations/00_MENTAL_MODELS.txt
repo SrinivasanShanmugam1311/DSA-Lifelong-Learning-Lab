@@ -1,0 +1,1 @@
+Store what has already been seen. Use a key to find a count or index. Hash operations are expected O(1), not guaranteed worst-case.

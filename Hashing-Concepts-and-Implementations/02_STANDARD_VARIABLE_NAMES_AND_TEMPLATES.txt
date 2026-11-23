@@ -1,0 +1,2 @@
+Store what has already been seen. Use a key to find a count or index. Hash operations are expected O(1), not guaranteed worst-case.
+Names: left, right, low, high, mid, current, previous, next_node, count, path. Use only names relevant to the pattern.

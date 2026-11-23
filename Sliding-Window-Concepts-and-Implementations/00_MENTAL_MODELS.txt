@@ -1,0 +1,1 @@
+Expand right. Update counts. Move left until valid. Record the answer. Each pointer moves forward at most n times.

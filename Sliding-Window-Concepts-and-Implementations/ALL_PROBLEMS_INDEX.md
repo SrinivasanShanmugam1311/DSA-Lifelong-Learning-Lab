@@ -1,0 +1,23 @@
+# Expanded inventory
+
+- 5: Longest Substring Without Repeating Characters — Available; not fully audited
+- 6: Fruit Into Baskets — Pending
+- 7: Longest Repeating Character Replacement — Pending
+- 8: Permutation in String — Pending
+- 9: Minimum Window Substring — Pending
+- 10: Sliding Window Maximum — Pending
+- 57: Find All Anagrams in a String — Pending
+- 81: Minimum Size Subarray Sum — Available; syntax checked, runtime not audited
+- 82: Longest Substring With At Least K Repeating Characters — Pending
+- 83: Max Consecutive Ones III — Pending
+- 84: Longest Subarray of 1s After Deleting One Element — Pending
+- 85: Maximum Points From Cards — Pending
+- 86: Get Equal Substrings Within Budget — Pending
+- 87: Substring With Concatenation of All Words — Pending
+- 88: Smallest Range Covering Elements From K Lists — Pending
+- 89: Subarrays With K Different Integers — Pending
+- 90: Sliding Window Median — Pending
+- 91: Shortest Subarray With Sum At Least K — Pending
+- 183: Contains Duplicate II — Pending
+- 184: Best Time to Buy and Sell Stock — Pending
+- 185: Find K Closest Elements — Pending
